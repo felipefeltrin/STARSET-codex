@@ -1,0 +1,21 @@
+id: CH-0002
+title: Master Chronology
+subtitle: From the PROX warning to SILOS
+revision: 1.0.0
+status: Draft
+classification: Public Release
+ssa_document: SSA-0101
+last_updated: 2026-08-18
+owner: Content Team
+first_release: Unreleased
+dependencies:
+  - CH-0001
+  - DOC-GOV-0003
+  - DOC-GOV-0007
+  - DOC-SPEC-0002
+  - DOC-SPEC-0003
+  - DOC-SPEC-0004
+  - DOC-SPEC-0005
+introduced_in: v1.0.0-dev
+chronological_scope: Warned future through the narrative frontier represented by SILOS.
+notes: Primary-text page locators and authenticated demonstration scene locators remain required before final publication.
