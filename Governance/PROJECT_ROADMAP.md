@@ -5,8 +5,8 @@
 | Document ID | DOC-GOV-0005 |
 | Category | Governance |
 | Status | Active |
-| Version | 1.0.1 |
-| Last Updated | 2026-08-09 |
+| Version | 1.0.2 |
+| Last Updated | 2026-08-18 |
 
 ## Project Dashboard
 
@@ -14,9 +14,9 @@
 |---|---|
 | Project Version | v1.0.0-dev |
 | Current Phase | Content creation |
-| Current Priority | Establish the first publishable lore chapter package |
-| Current Work Item | CH-0001 — Introduction |
-| Current Blocker | None |
+| Current Priority | Establish the Master Chronology as the narrative spine of the Codex |
+| Current Work Item | CH-0002 — Master Chronology |
+| Current Blocker | Primary-text page locators and authenticated 2024 demonstration scene locators remain pending before final publication |
 | Next Release Goal | Complete initial lore content through *SILOS* |
 
 ## Phase 1 — Governance and Standards
@@ -39,8 +39,9 @@
 
 ## Phase 2 — Content Creation
 
-- [ ] Front matter and Chapter 1. **In progress.**
-- [ ] Master Chronology.
+- [ ] Front matter. **Pending.**
+- [x] Chapter 1 — Introduction. **Merged.**
+- [ ] Master Chronology. **In progress.**
 - [ ] Cosmology and temporal mechanics.
 - [ ] Historical timelines.
 - [ ] Novels and comic adaptation.
@@ -88,5 +89,6 @@ The roadmap communicates direction rather than guaranteeing dates. New milestone
 
 | Version | Date | Change |
 |---|---|---|
+| 1.0.2 | 2026-08-18 | Marked CH-0001 as merged, separated pending front matter, and advanced current work to CH-0002. |
 | 1.0.1 | 2026-08-09 | Moved the project into content creation, recorded repository creation, and set CH-0001 as the current work item. |
 | 1.0.0 | 2026-08-05 | Converted the roadmap into a dashboard and aligned phases with the approved development order. |
