@@ -1,0 +1,132 @@
+chapter_id: CH-0002
+revision: 1.0.0
+sources:
+  - SRC-0001
+  - SRC-0002
+  - SRC-0003
+  - SRC-0004
+  - SRC-0005
+  - SRC-0006
+  - SRC-0007
+  - SRC-0008
+  - SRC-0009
+  - SRC-0010
+  - SRC-0011
+citations:
+  - id: CIT-0004
+    source: SRC-0001
+    locator: Whole-work causal premise; page locator pending verification
+    supports: Future information is used to intervene in the conditions that produced the warned future.
+    last_verified: 2026-08-18
+  - id: CIT-0005
+    source: SRC-0002
+    locator: Whole-work setting; page locator pending verification
+    supports: The later primary-canon future differs materially from the first warned future and centers on BMI-era control.
+    last_verified: 2026-08-18
+  - id: CIT-0006
+    source: SRC-0001
+    locator: Future-history material; page locator pending verification
+    supports: The Everything Machine and concentrated industrial power are central to the warned future.
+    last_verified: 2026-08-18
+  - id: CIT-0007
+    source: SRC-0001
+    locator: PROX/future-history material; page locator pending verification
+    supports: PROX is central to the off-world future and origin context of the warning.
+    last_verified: 2026-08-18
+  - id: CIT-0008
+    source: SRC-0004
+    locator: Album-era official description and work as a whole
+    supports: Vessels returns to PROX and expands themes involving AI and genetic engineering.
+    last_verified: 2026-08-18
+  - id: CIT-0009
+    source: SRC-0001
+    locator: Transmission material; page locator pending verification
+    supports: Thomas Bell is associated with sending future knowledge intended to prevent catastrophe.
+    last_verified: 2026-08-18
+  - id: CIT-0010
+    source: SRC-0003
+    locator: Transmissions-era narrative and official visual context
+    supports: Nikola Tesla is incorporated into the early reception narrative.
+    last_verified: 2026-08-18
+    notes: Exact date and primary-novel locator remain pending.
+  - id: CIT-0011
+    source: SRC-0001
+    locator: Order/hidden-conflict material; page locator pending verification
+    supports: The Order of Teslonia participates in the historical struggle over the transmission.
+    last_verified: 2026-08-18
+  - id: CIT-0012
+    source: SRC-0001
+    locator: Opening sequence; page locator pending verification
+    supports: Browning's memory gap, gas-station awakening, handwritten instruction, and tattooed coordinates.
+    last_verified: 2026-08-18
+  - id: CIT-0013
+    source: SRC-0001
+    locator: Signal-discovery material; page locator pending verification
+    supports: Browning recovers a structured signal associated with Barnard's Star/PROX and future knowledge.
+    last_verified: 2026-08-18
+  - id: CIT-0014
+    source: SRC-0001
+    locator: Browning/Wise/Milano investigation; page locator pending verification
+    supports: Aston Wise and Dana Milano become central collaborators in the investigation.
+    last_verified: 2026-08-18
+  - id: CIT-0015
+    source: SRC-0001
+    locator: Faction-conflict material; page locator pending verification
+    supports: The Order, the Collective/industrial interests, and coercive structures struggle over the future information.
+    last_verified: 2026-08-18
+  - id: CIT-0016
+    source: SRC-0001
+    locator: Resolution and intervention premise; page locator pending verification
+    supports: The protagonists act to prevent simple repetition of the warned future.
+    last_verified: 2026-08-18
+  - id: CIT-0017
+    source: SRC-0002
+    locator: Whole-work political and technological setting; page locator pending verification
+    supports: The later dystopia centers on BMI, New East, New West, and the Architecture.
+    last_verified: 2026-08-18
+  - id: CIT-0018
+    source: SRC-0004
+    locator: Work as a whole and official album description
+    supports: Vessels broadens the technological warning across PROX, AI, and genetic-engineering themes.
+    last_verified: 2026-08-18
+  - id: CIT-0019
+    source: SRC-0002
+    locator: BMI/New West setting; page locator pending verification
+    supports: BMI is normalized as augmented experience and commercial distraction in the New West.
+    last_verified: 2026-08-18
+  - id: CIT-0020
+    source: SRC-0002
+    locator: Architecture material; page locator pending verification
+    supports: The Architecture is the structure underlying and controlling BMI artificial realities.
+    last_verified: 2026-08-18
+  - id: CIT-0021
+    source: SRC-0002
+    locator: Thomas Bell character premise and Architecture internship; page locator pending verification
+    supports: Thomas's graduate studies, family pressures, virtual torture work, internship, and discovery of the Architecture's deeper function.
+    last_verified: 2026-08-18
+  - id: CIT-0022
+    source: SRC-0010
+    locator: Official music video as a whole
+    supports: New East propaganda, contraband-thought language, supplication, and BMI-mediated confinement imagery.
+    last_verified: 2026-08-18
+  - id: CIT-0023
+    source: SRC-0011
+    locator: Official music video as a whole; compared with SRC-0005 and SRC-0006
+    supports: HORIZONS-era BMI control and escape imagery, while not resolving universal DIVISIONS/HORIZONS ordering.
+    last_verified: 2026-08-18
+  - id: CIT-0024
+    source: SRC-0008
+    locator: 2024 demonstration cinematic; scene-level locator pending authenticated recording verification
+    supports: Auditor, supplication, John Handworth, rebellion, BMI-signal suppression, and consequences for institutional disobedience.
+    last_verified: 2026-08-18
+  - id: CIT-0025
+    source: SRC-0001
+    locator: Transmission premise, compared with later registered narrative media
+    supports: Messenger/transmission functions recur structurally across the saga.
+    last_verified: 2026-08-18
+    notes: This citation supports a Reasonable Reconstruction, not a claim that all messenger references identify one person.
+  - id: CIT-0026
+    source: SRC-0009
+    locator: Album track sequence and official SILOS-era branding
+    supports: SILOS release-era titles reintroduce messenger, Order, PROX-facing, and dystopian vocabulary in the current narrative frontier.
+    last_verified: 2026-08-18
