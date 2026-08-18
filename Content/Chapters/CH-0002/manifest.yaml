@@ -1,0 +1,66 @@
+package_id: CH-0002
+revision: 1.0.0
+files:
+  - chapter.md
+  - metadata.yaml
+  - manifest.yaml
+  - sources.yaml
+objects:
+  - CH-0002
+  - SSA-0101
+  - ARC-0002
+  - ARC-0003
+  - ARC-0004
+  - EVT-0001
+  - EVT-0002
+  - EVT-0003
+  - EVT-0004
+  - EVT-0005
+  - EVT-0006
+  - EVT-0007
+  - EVT-0008
+  - EVT-0009
+  - EVT-0010
+  - EVT-0011
+  - EVT-0012
+  - EVT-0013
+  - EVT-0014
+  - EVT-0015
+  - EVT-0016
+  - EVT-0017
+  - EVT-0018
+  - CIT-0004
+  - CIT-0005
+  - CIT-0006
+  - CIT-0007
+  - CIT-0008
+  - CIT-0009
+  - CIT-0010
+  - CIT-0011
+  - CIT-0012
+  - CIT-0013
+  - CIT-0014
+  - CIT-0015
+  - CIT-0016
+  - CIT-0017
+  - CIT-0018
+  - CIT-0019
+  - CIT-0020
+  - CIT-0021
+  - CIT-0022
+  - CIT-0023
+  - CIT-0024
+  - CIT-0025
+  - CIT-0026
+generated_outputs:
+  - chapter.pdf
+shared_dependencies:
+  - CH-0001
+  - DOC-GOV-0003
+  - DOC-GOV-0007
+  - DOC-SPEC-0002
+  - DOC-SPEC-0003
+  - DOC-SPEC-0004
+  - DOC-SPEC-0005
+assets: []
+notes: Visual timeline and branching diagrams are intentionally deferred until their dedicated asset pass; chapter.pdf remains a generated build artifact.
