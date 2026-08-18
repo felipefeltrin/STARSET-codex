@@ -5,19 +5,19 @@
 | Document ID | DOC-GOV-0005 |
 | Category | Governance |
 | Status | Active |
-| Version | 1.0.0 |
-| Last Updated | 2026-08-05 |
+| Version | 1.0.1 |
+| Last Updated | 2026-08-09 |
 
 ## Project Dashboard
 
 | Item | Current State |
 |---|---|
 | Project Version | v1.0.0-dev |
-| Current Phase | Governance finalization |
-| Current Priority | Freeze Governance and Specifications v1.0.0 |
-| Current Work Item | Sprint 0 repository-wide standardization |
+| Current Phase | Content creation |
+| Current Priority | Establish the first publishable lore chapter package |
+| Current Work Item | CH-0001 — Introduction |
 | Current Blocker | None |
-| Next Release Goal | Governance and Specifications v1.0.0-dev package |
+| Next Release Goal | Complete initial lore content through *SILOS* |
 
 ## Phase 1 — Governance and Standards
 
@@ -35,11 +35,11 @@
 - [x] Architectural decision record.
 - [x] Changelog established.
 - [x] Repository-wide standardization pass.
-- [ ] Freeze Governance and Specifications v1.0.0.
+- [x] Governance and Specifications baseline established.
 
 ## Phase 2 — Content Creation
 
-- [ ] Front matter and Chapter 1.
+- [ ] Front matter and Chapter 1. **In progress.**
 - [ ] Master Chronology.
 - [ ] Cosmology and temporal mechanics.
 - [ ] Historical timelines.
@@ -54,9 +54,9 @@
 
 ## Phase 3 — Repository and Infrastructure
 
-This phase begins only after the current lore content is complete.
+The repository now exists and serves as the working source of truth. Infrastructure work beyond basic repository use remains intentionally deferred until the current lore content is complete.
 
-- [ ] Create the public GitHub repository.
+- [x] Create the public GitHub repository.
 - [ ] Add branch protection and contribution templates.
 - [ ] Design the build command.
 - [ ] Add metadata, link, and identifier validation.
@@ -88,4 +88,5 @@ The roadmap communicates direction rather than guaranteeing dates. New milestone
 
 | Version | Date | Change |
 |---|---|---|
+| 1.0.1 | 2026-08-09 | Moved the project into content creation, recorded repository creation, and set CH-0001 as the current work item. |
 | 1.0.0 | 2026-08-05 | Converted the roadmap into a dashboard and aligned phases with the approved development order. |

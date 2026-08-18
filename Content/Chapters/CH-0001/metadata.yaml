@@ -1,0 +1,20 @@
+id: CH-0001
+title: Introduction
+subtitle: Orientation to The STARSET Codex
+revision: 1.0.0
+status: Draft
+classification: Public Release
+ssa_document: SSA-0100
+last_updated: 2026-08-09
+owner: Content Team
+first_release: Unreleased
+dependencies:
+  - DOC-GOV-0003
+  - DOC-GOV-0007
+  - DOC-SPEC-0002
+  - DOC-SPEC-0003
+  - DOC-SPEC-0004
+  - DOC-SPEC-0005
+introduced_in: v1.0.0-dev
+chronological_scope: Not applicable; orientation chapter.
+notes: First lore-content package in The STARSET Codex.
